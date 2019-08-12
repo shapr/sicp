@@ -7,7 +7,7 @@ _This contains a list of resources for working through SICP._
 * [Beautiful SICP by Sara Bander](https://sarabander.github.io/sicp/html/index.xhtml)
     * [PDF](https://github.com/sarabander/sicp-pdf/raw/master/sicp.pdf)
     * [GitHub](https://github.com/sarabander/sicp-pdf)
-* [Interactive Scheme](https://xuanji.appspot.com/isicp/)
+* [Interactive SICP](https://xuanji.appspot.com/isicp/)
 
 ## Environment Setup
 * [Racket Setup](https://docs.racket-lang.org/sicp-manual/Installation.html)
